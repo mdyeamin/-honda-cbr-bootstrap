@@ -1,25 +1,18 @@
-
-
-
 .bg-head-content{
     background: #264653;
 }
-
 .btn-color{
     background: #e76f51;
 }
 .span-color{
     color:#e76f51;
 }
-
 .gray-img{
     filter: grayscale(100%);
 }
-
 .card div i{
     color:#e76f51;
 }
-
 .buy-icon .icon{
 width:150px;
 }
